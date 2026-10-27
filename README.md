@@ -21,7 +21,7 @@ Hệ thống quản lý nhân sự trực tuyến cho phép xem danh sách, thê
 4. Cài đặt và chạy Frontend: `cd frontend && npm install && npm run dev`
 
 ## 5. Danh sách đường dẫn nộp bài (Links)
-1. **Link GitHub Repository:** https://github.com/<username-github-cua-ban>/222908_LeDuongHuynhTin
+1. **Link GitHub Repository:** https://github.com/tisncute/222908_LeDuongHuynhTin
 2. **Link Docker Hub Backend:** https://hub.docker.com/r/tisncutee/222908_leduonghuynhtin_backend
 3. **Link Docker Hub Frontend:** https://hub.docker.com/r/tisncutee/222908_leduonghuynhtin_frontend
 4. **Link Render App (Frontend):** https://web-222908.onrender.com
