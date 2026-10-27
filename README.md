@@ -26,4 +26,4 @@ Hệ thống quản lý nhân sự trực tuyến cho phép xem danh sách, thê
 3. **Link Docker Hub Frontend:** https://hub.docker.com/r/tisncutee/222908_leduonghuynhtin_frontend
 4. **Link Render App (Frontend):** https://web-222908.onrender.com
 5. **Link Render API (Backend):** https://api-222908.onrender.com
-6. **Link MongoDB Atlas:** (Sẽ cập nhật link trang quản lý Collection ở Câu 2)
+6. **Link MongoDB Atlas:** https://cloud.mongodb.com/v2/6adffbe128aebb6943cb6dd6#/explorer/6adffc4d28aebb6943cc40c4/222908_LeDuongHuynhTin/employees/find
