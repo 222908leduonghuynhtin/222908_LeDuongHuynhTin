@@ -22,8 +22,8 @@ Hệ thống quản lý nhân sự trực tuyến cho phép xem danh sách, thê
 
 ## 5. Danh sách đường dẫn nộp bài (Links)
 1. **Link GitHub Repository:** https://github.com/222908leduonghuynhtin/222908_LeDuongHuynhTin
-2. **Link Docker Hub Backend:** https://hub.docker.com/r/tisncutee/222908_leduonghuynhtin_backend
-3. **Link Docker Hub Frontend:** https://hub.docker.com/r/tisncutee/222908_leduonghuynhtin_frontend
+2. **Link Docker Hub Backend:** https://hub.docker.com/r/222908leduonghuynhtin/backend
+3. **Link Docker Hub Frontend:** https://hub.docker.com/r/222908leduonghuynhtin/frontend
 4. **Link Render App (Frontend):** https://web-222908.onrender.com
 5. **Link Render API (Backend):** https://api-222908.onrender.com
-6. **Link MongoDB Atlas:** https://cloud.mongodb.com/v2/6adffbe128aebb6943cb6dd6#/explorer/6adffc4d28aebb6943cc40c4/222908_LeDuongHuynhTin/employees/find
+6. **Link MongoDB Atlas:** mongodb+srv://leduonghuynhtin_db_user:Tin222908@cluster0.nsui5ox.mongodb.net/222908_LeDuongHuynhTin?retryWrites=true&w=majority
